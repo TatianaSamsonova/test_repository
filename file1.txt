@@ -1,1 +1,2 @@
 Hello my first file in GIT
+Add smth
