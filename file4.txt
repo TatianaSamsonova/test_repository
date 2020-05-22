@@ -1,1 +1,2 @@
 file from add-feature1
+Critical bug fixed
