@@ -1,2 +1,3 @@
 Add file 5
 New line from User3
+New line from User1 for test of conflict situation
