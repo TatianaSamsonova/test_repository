@@ -1,4 +1,1 @@
-Hello my first file in GIT
-Add smth
-Add more information
-Line from User1
+Test conflict from User1
